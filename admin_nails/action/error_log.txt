@@ -1,0 +1,28 @@
+Debug info: Array
+(
+    [company_name] => Big Red Nails & Spa
+    [time_start] => 07:00
+    [time_end] => 17:30
+    [time_period] => 00:10:00
+    [hotline] => 402-261-4193
+    [password] => choancu8c
+    [phone_booking] => 402-261-4193
+    [address] => 39m
+    [day_start] => Sunday
+    [day_end] => Sunday
+    [status] => 1
+)
+Debug info: Array
+(
+    [company_name] => Big Red Nails & Spa
+    [time_start] => 07:00
+    [time_end] => 17:30
+    [time_period] => 00:10:00
+    [hotline] => 402-261-4193
+    [password] => choancu8c
+    [phone_booking] => 402-261-4193
+    [address] => 39m
+    [day_start] => Sunday
+    [day_end] => Sunday
+    [status] => 1
+)
